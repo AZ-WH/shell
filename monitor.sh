@@ -1,14 +1,10 @@
 #!/bin/bash
-
 #监听相关服务
 
 
 #参数:
-
-#   service name
-
-#		command		
-
+#service name
+#command		
 function monitor(){
 	is_run=`/sbin/pidof $1`
 

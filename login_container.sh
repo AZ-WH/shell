@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 #用来进入某个docker容器里面的脚本
 
 echo "输入容器的name:"
